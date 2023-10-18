@@ -1,0 +1,29 @@
+{
+  "name": "@novemberizing/tenmin",
+  "version": "0.0.1",
+  "description": "The website about Ten minutes to change the world beautifully.",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novemberizing/tenmin.git"
+  },
+  "keywords": [
+    "ten",
+    "minutes"
+  ],
+  "author": "novemberizing <novemberizing@gmail.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/novemberizing/tenmin/issues"
+  },
+  "homepage": "https://github.com/novemberizing/tenmin#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

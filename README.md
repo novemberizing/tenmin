@@ -1,2 +1,3 @@
-# tenmin
-10 minutes to change the world beautifully.
+TEN MINUTES TO CHANGE THE WORLD BEAUTIFULLY
+===========================================
+

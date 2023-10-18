@@ -1,0 +1,19 @@
+[
+    {
+        "url": "https://www.iconfinder.com/icons/9180333/planet_earth_heart_love_world_peace_icon",
+        "author": "Kalash",
+        "license": "Attribution 4.0 International (CC BY 4.0)",
+        "target": [
+            "/favicon.ico",
+            "/assets/img/apple-touch-icon.png"
+        ]
+    },
+    {
+        "url": "https://pixabay.com/ko/photos/%EC%88%98%EC%84%A0%ED%99%94-%EA%B2%A8%EC%9A%B8-%EA%B2%A8%EC%9A%B8-%EC%99%95%EA%B5%AD-%EC%84%9C%EB%A6%AC-4732098/",
+        "author": "distelAPPArath",
+        "license": "https://pixabay.com/ko/service/license-summary/",
+        "target": [
+            "/assets/img/hero-bg.jpg"
+        ]
+    }
+]
